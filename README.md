@@ -68,8 +68,6 @@ Upon completion, add your deliverables to git. Then commit git, push to your for
 
 ## Resources
 
-[Data Cleaning Tutorial](https://www.tutorialspoint.com/python/python_data_cleansing.html)
-
 [Data Cleaning with Numpy and Pandas](https://realpython.com/python-data-cleaning-numpy-pandas/#python-data-cleaning-recap-and-resources)
 
 [Data Cleaning Video](https://www.youtube.com/watch?v=ZOX18HfLHGQ)
